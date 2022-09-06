@@ -1,0 +1,15 @@
+/Users/Alexander/Desktop/C#/Task13/bin/Debug/net6.0/Task13
+/Users/Alexander/Desktop/C#/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/Alexander/Desktop/C#/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/Alexander/Desktop/C#/Task13/bin/Debug/net6.0/Task13.dll
+/Users/Alexander/Desktop/C#/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.dll
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/refint/Task13.dll
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/Users/Alexander/Desktop/C#/Task13/obj/Debug/net6.0/ref/Task13.dll
