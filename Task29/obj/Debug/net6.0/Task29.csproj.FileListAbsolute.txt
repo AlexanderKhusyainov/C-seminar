@@ -1,0 +1,15 @@
+/Users/Alexander/Desktop/C#/Task29/bin/Debug/net6.0/Task29
+/Users/Alexander/Desktop/C#/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/Alexander/Desktop/C#/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/Alexander/Desktop/C#/Task29/bin/Debug/net6.0/Task29.dll
+/Users/Alexander/Desktop/C#/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.dll
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/Alexander/Desktop/C#/Task29/obj/Debug/net6.0/ref/Task29.dll
