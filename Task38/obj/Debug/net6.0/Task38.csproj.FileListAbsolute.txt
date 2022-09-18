@@ -1,0 +1,15 @@
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.csproj.AssemblyReference.cache
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.AssemblyInfoInputs.cache
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.AssemblyInfo.cs
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.csproj.CoreCompileInputs.cache
+/Users/Alexander/Desktop/C#/Task38/bin/Debug/net6.0/Task38
+/Users/Alexander/Desktop/C#/Task38/bin/Debug/net6.0/Task38.deps.json
+/Users/Alexander/Desktop/C#/Task38/bin/Debug/net6.0/Task38.runtimeconfig.json
+/Users/Alexander/Desktop/C#/Task38/bin/Debug/net6.0/Task38.dll
+/Users/Alexander/Desktop/C#/Task38/bin/Debug/net6.0/Task38.pdb
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.dll
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/refint/Task38.dll
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.pdb
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/Task38.genruntimeconfig.cache
+/Users/Alexander/Desktop/C#/Task38/obj/Debug/net6.0/ref/Task38.dll
