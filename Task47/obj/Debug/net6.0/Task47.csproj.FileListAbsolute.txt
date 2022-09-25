@@ -1,0 +1,15 @@
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.csproj.AssemblyReference.cache
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.AssemblyInfoInputs.cache
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.AssemblyInfo.cs
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.csproj.CoreCompileInputs.cache
+/Users/Alexander/Desktop/C#/Task47/bin/Debug/net6.0/Task47
+/Users/Alexander/Desktop/C#/Task47/bin/Debug/net6.0/Task47.deps.json
+/Users/Alexander/Desktop/C#/Task47/bin/Debug/net6.0/Task47.runtimeconfig.json
+/Users/Alexander/Desktop/C#/Task47/bin/Debug/net6.0/Task47.dll
+/Users/Alexander/Desktop/C#/Task47/bin/Debug/net6.0/Task47.pdb
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.dll
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/refint/Task47.dll
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.pdb
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/Task47.genruntimeconfig.cache
+/Users/Alexander/Desktop/C#/Task47/obj/Debug/net6.0/ref/Task47.dll
